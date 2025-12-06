@@ -1,0 +1,19 @@
+{
+    "appTitle": "صلّي",
+    "fajr": "الفجر",
+    "dhuhr": "الظهر",
+    "asr": "العصر",
+    "maghrib": "المغرب",
+    "isha": "العشاء",
+    "iPrayed": "صلّيت",
+    "missed": "تفويتها؟",
+    "prayNow": "صلّها دابا",
+    "nextPrayer": "الصلاة الجاية",
+    "timeRemaining": "شحال بقى",
+    "weeklySummary": "الملخص ديال السيمانة",
+    "settings": "الإعدادات",
+    "language": "اللغة",
+    "calculationMethod": "طريقة الحساب",
+    "notifications": "الإشعارات",
+    "privacyPolicy": "سياسة الخصوصية"
+}

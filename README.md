@@ -62,3 +62,4 @@ Sallay is a premium, privacy-focused Islamic prayer companion app designed to he
 ---
 *Sallay - Your companion for daily prayers.*
 # sallay
+# sallay
